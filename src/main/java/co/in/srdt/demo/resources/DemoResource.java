@@ -9,6 +9,6 @@ public class DemoResource {
 
     @GetMapping("/getHelloWorld")
     public String getHelloWorld(){
-        return "Hello World";
+        return "Hello SRDT World";
     }
 }
